@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|c:\\users\\villc\\desktop\\clonado\\sistemaweb\\sistemaweb\\sistemaweb\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|solutionrelative:sistemaweb\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|c:\\users\\villc\\desktop\\clonado\\sistemaweb\\sistemaweb\\sistemaweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|solutionrelative:sistemaweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|c:\\users\\villc\\desktop\\clonado\\sistemaweb\\sistemaweb\\sistemaweb\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|solutionrelative:sistemaweb\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|c:\\users\\villc\\desktop\\clonado\\sistemaweb\\sistemaweb\\sistemaweb\\models\\cancha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|solutionrelative:sistemaweb\\models\\cancha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|c:\\users\\villc\\desktop\\clonado\\sistemaweb\\sistemaweb\\sistemaweb\\models\\alquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|solutionrelative:sistemaweb\\models\\alquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|c:\\users\\villc\\desktop\\clonado\\sistemaweb\\sistemaweb\\sistemaweb\\contexto\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|solutionrelative:sistemaweb\\contexto\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|c:\\users\\villc\\desktop\\clonado\\sistemaweb\\sistemaweb\\sistemaweb\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|solutionrelative:sistemaweb\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|c:\\users\\villc\\desktop\\clonado\\sistemaweb\\sistemaweb\\sistemaweb\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|solutionrelative:sistemaweb\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|c:\\users\\villc\\desktop\\clonado\\sistemaweb\\sistemaweb\\sistemaweb\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|solutionrelative:sistemaweb\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|c:\\users\\villc\\desktop\\clonado\\sistemaweb\\sistemaweb\\sistemaweb\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|solutionrelative:sistemaweb\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|c:\\users\\villc\\desktop\\clonado\\sistemaweb\\sistemaweb\\sistemaweb\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|solutionrelative:sistemaweb\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|c:\\users\\villc\\desktop\\clonado\\sistemaweb\\sistemaweb\\sistemaweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,24 +51,12 @@
       "RelativeMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|solutionrelative:sistemaweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|c:\\users\\villc\\desktop\\clonado\\sistemaweb\\sistemaweb\\sistemaweb\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|solutionrelative:sistemaweb\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|c:\\users\\villc\\desktop\\clonado\\sistemaweb\\sistemaweb\\sistemaweb\\migrations\\20240630160128_primeramigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|solutionrelative:sistemaweb\\migrations\\20240630160128_primeramigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|c:\\users\\villc\\desktop\\clonado\\sistemaweb\\sistemaweb\\sistemaweb\\contexto\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|solutionrelative:sistemaweb\\contexto\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|c:\\users\\villc\\desktop\\clonado\\sistemaweb\\sistemaweb\\sistemaweb\\controllers\\dto\\rolenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|solutionrelative:sistemaweb\\controllers\\dto\\rolenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|c:\\users\\villc\\desktop\\clonado\\sistemaweb\\sistemaweb\\sistemaweb\\models\\cancha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|solutionrelative:sistemaweb\\models\\cancha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|c:\\users\\villc\\desktop\\clonado\\sistemaweb\\sistemaweb\\sistemaweb\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|c:\\users\\villc\\desktop\\clonado\\sistemaweb\\sistemaweb\\sistemaweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|solutionrelative:sistemaweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|c:\\users\\villc\\desktop\\clonado\\sistemaweb\\sistemaweb\\sistemaweb\\models\\alquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|solutionrelative:sistemaweb\\models\\alquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|c:\\users\\villc\\desktop\\clonado\\sistemaweb\\sistemaweb\\sistemaweb\\sistemaweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -66,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -85,90 +101,93 @@
               "Name": "ST:1:0:{a0550017-e1d7-4d15-bb20-88380d43322b}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "SistemaWeb\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "SistemaWeb\\Controllers\\ClientesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:26:17.623Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "SistemaWeb\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "SistemaWeb\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:27:36.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Alquiler.cs",
+              "DocumentMoniker": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Models\\Alquiler.cs",
+              "RelativeDocumentMoniker": "SistemaWeb\\Models\\Alquiler.cs",
+              "ToolTip": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Models\\Alquiler.cs",
+              "RelativeToolTip": "SistemaWeb\\Models\\Alquiler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:17:01.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cancha.cs",
+              "DocumentMoniker": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Models\\Cancha.cs",
+              "RelativeDocumentMoniker": "SistemaWeb\\Models\\Cancha.cs",
+              "ToolTip": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Models\\Cancha.cs",
+              "RelativeToolTip": "SistemaWeb\\Models\\Cancha.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:16:48.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Views\\Usuarios\\Create.cshtml",
+              "RelativeDocumentMoniker": "SistemaWeb\\Views\\Usuarios\\Create.cshtml",
+              "ToolTip": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Views\\Usuarios\\Create.cshtml",
+              "RelativeToolTip": "SistemaWeb\\Views\\Usuarios\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T16:29:18.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SistemaWeb\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "SistemaWeb\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-30T16:16:38.811Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Views\\Login\\Index.cshtml",
               "RelativeDocumentMoniker": "SistemaWeb\\Views\\Login\\Index.cshtml",
               "ToolTip": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Views\\Login\\Index.cshtml",
               "RelativeToolTip": "SistemaWeb\\Views\\Login\\Index.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA8AAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-30T16:12:45.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-30T16:12:45.092Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "SistemaWeb\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "SistemaWeb\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T16:10:03.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20240630160128_PrimeraMigracion.cs",
-              "DocumentMoniker": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Migrations\\20240630160128_PrimeraMigracion.cs",
-              "RelativeDocumentMoniker": "SistemaWeb\\Migrations\\20240630160128_PrimeraMigracion.cs",
-              "ToolTip": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Migrations\\20240630160128_PrimeraMigracion.cs",
-              "RelativeToolTip": "SistemaWeb\\Migrations\\20240630160128_PrimeraMigracion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T16:01:28.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Program.cs",
-              "RelativeDocumentMoniker": "SistemaWeb\\Program.cs",
-              "ToolTip": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Program.cs",
-              "RelativeToolTip": "SistemaWeb\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T15:22:28.387Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\appsettings.json",
-              "RelativeDocumentMoniker": "SistemaWeb\\appsettings.json",
-              "ToolTip": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\appsettings.json",
-              "RelativeToolTip": "SistemaWeb\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-30T15:22:06.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "MyContext.cs",
               "DocumentMoniker": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Contexto\\MyContext.cs",
               "RelativeDocumentMoniker": "SistemaWeb\\Contexto\\MyContext.cs",
@@ -180,19 +199,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Alquiler.cs",
-              "DocumentMoniker": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Models\\Alquiler.cs",
-              "RelativeDocumentMoniker": "SistemaWeb\\Models\\Alquiler.cs",
-              "ToolTip": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Models\\Alquiler.cs",
-              "RelativeToolTip": "SistemaWeb\\Models\\Alquiler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "DocumentIndex": 7,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "SistemaWeb\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "SistemaWeb\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wA8AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T15:17:01.711Z"
+              "WhenOpened": "2024-06-30T16:10:03.634Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaWeb\\Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "SistemaWeb\\Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T16:29:01.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240630160128_PrimeraMigracion.cs",
+              "DocumentMoniker": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Migrations\\20240630160128_PrimeraMigracion.cs",
+              "RelativeDocumentMoniker": "SistemaWeb\\Migrations\\20240630160128_PrimeraMigracion.cs",
+              "ToolTip": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Migrations\\20240630160128_PrimeraMigracion.cs",
+              "RelativeToolTip": "SistemaWeb\\Migrations\\20240630160128_PrimeraMigracion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:01:28.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Program.cs",
+              "RelativeToolTip": "SistemaWeb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:22:28.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "SistemaWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\appsettings.json",
+              "RelativeToolTip": "SistemaWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-30T15:22:06.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "RolEnum.cs",
               "DocumentMoniker": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Controllers\\Dto\\RolEnum.cs",
               "RelativeDocumentMoniker": "SistemaWeb\\Controllers\\Dto\\RolEnum.cs",
@@ -204,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "SistemaWeb\\Models\\ErrorViewModel.cs",
@@ -216,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "SistemaWeb\\Models\\Cliente.cs",
@@ -228,19 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Cancha.cs",
-              "DocumentMoniker": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Models\\Cancha.cs",
-              "RelativeDocumentMoniker": "SistemaWeb\\Models\\Cancha.cs",
-              "ToolTip": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Models\\Cancha.cs",
-              "RelativeToolTip": "SistemaWeb\\Models\\Cancha.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA8AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T15:16:48.699Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "SistemaWeb.csproj",
               "DocumentMoniker": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\SistemaWeb.csproj",
               "RelativeDocumentMoniker": "SistemaWeb\\SistemaWeb.csproj",
@@ -252,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "SistemaWeb\\Models\\Usuario.cs",
