@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace SistemaWeb.Contexto
 {
-    public class MyContext:DbContext
+    public class MyContext : DbContext
     {
         public MyContext(DbContextOptions options) : base(options)
         {
@@ -16,4 +16,4 @@ namespace SistemaWeb.Contexto
         public DbSet<Alquiler> Alquilers { get; set; }
     }
 }
-}
+

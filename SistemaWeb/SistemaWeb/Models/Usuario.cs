@@ -1,4 +1,4 @@
-﻿using SistemaWeb.Controllers;
+﻿using SistemaWeb.Controllers.Dto;
 using System.ComponentModel.DataAnnotations;
 
 namespace SistemaWeb.Models

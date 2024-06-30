@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/xgDfexVEcM=",
+  "dgSpecHash": "dYQrJzFGFLw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\villc\\Desktop\\SistemaWeb\\SistemaWeb\\SistemaWeb\\SistemaWeb.csproj",
+  "projectFilePath": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\SistemaWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\villc\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\villc\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
