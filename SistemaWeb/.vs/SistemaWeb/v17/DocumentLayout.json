@@ -1,7 +1,48 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\villc\\Desktop\\SistemaWeb\\SistemaWeb\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|c:\\users\\villc\\desktop\\sistemaweb\\sistemaweb\\sistemaweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|solutionrelative:sistemaweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|c:\\users\\villc\\desktop\\sistemaweb\\sistemaweb\\sistemaweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|solutionrelative:sistemaweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|c:\\users\\villc\\desktop\\sistemaweb\\sistemaweb\\sistemaweb\\contexto\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|solutionrelative:sistemaweb\\contexto\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|c:\\users\\villc\\desktop\\sistemaweb\\sistemaweb\\sistemaweb\\sistemaweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|solutionrelative:sistemaweb\\sistemaweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|c:\\users\\villc\\desktop\\sistemaweb\\sistemaweb\\sistemaweb\\models\\alquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|solutionrelative:sistemaweb\\models\\alquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|c:\\users\\villc\\desktop\\sistemaweb\\sistemaweb\\sistemaweb\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|solutionrelative:sistemaweb\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|c:\\users\\villc\\desktop\\sistemaweb\\sistemaweb\\sistemaweb\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|solutionrelative:sistemaweb\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|c:\\users\\villc\\desktop\\sistemaweb\\sistemaweb\\sistemaweb\\models\\cancha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|solutionrelative:sistemaweb\\models\\cancha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|c:\\users\\villc\\desktop\\sistemaweb\\sistemaweb\\sistemaweb\\controllers\\rolenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|solutionrelative:sistemaweb\\controllers\\rolenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|c:\\users\\villc\\desktop\\sistemaweb\\sistemaweb\\sistemaweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA672F-ECBC-43D7-98EA-07D74477BD4F}|SistemaWeb\\SistemaWeb.csproj|solutionrelative:sistemaweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +50,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\villc\\Desktop\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\villc\\Desktop\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Program.cs",
+              "RelativeToolTip": "SistemaWeb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:22:28.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\villc\\Desktop\\SistemaWeb\\SistemaWeb\\SistemaWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "SistemaWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\villc\\Desktop\\SistemaWeb\\SistemaWeb\\SistemaWeb\\appsettings.json",
+              "RelativeToolTip": "SistemaWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-30T15:22:06.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyContext.cs",
+              "DocumentMoniker": "C:\\Users\\villc\\Desktop\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Contexto\\MyContext.cs",
+              "RelativeDocumentMoniker": "SistemaWeb\\Contexto\\MyContext.cs",
+              "ToolTip": "C:\\Users\\villc\\Desktop\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Contexto\\MyContext.cs",
+              "RelativeToolTip": "SistemaWeb\\Contexto\\MyContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:19:59.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SistemaWeb",
+              "DocumentMoniker": "C:\\Users\\villc\\Desktop\\SistemaWeb\\SistemaWeb\\SistemaWeb\\SistemaWeb.csproj",
+              "RelativeDocumentMoniker": "SistemaWeb\\SistemaWeb.csproj",
+              "ToolTip": "C:\\Users\\villc\\Desktop\\SistemaWeb\\SistemaWeb\\SistemaWeb\\SistemaWeb.csproj",
+              "RelativeToolTip": "SistemaWeb\\SistemaWeb.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-30T15:19:21.896Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -26,6 +119,84 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{a0550017-e1d7-4d15-bb20-88380d43322b}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Alquiler.cs",
+              "DocumentMoniker": "C:\\Users\\villc\\Desktop\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Models\\Alquiler.cs",
+              "RelativeDocumentMoniker": "SistemaWeb\\Models\\Alquiler.cs",
+              "ToolTip": "C:\\Users\\villc\\Desktop\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Models\\Alquiler.cs",
+              "RelativeToolTip": "SistemaWeb\\Models\\Alquiler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:17:01.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cancha.cs",
+              "DocumentMoniker": "C:\\Users\\villc\\Desktop\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Models\\Cancha.cs",
+              "RelativeDocumentMoniker": "SistemaWeb\\Models\\Cancha.cs",
+              "ToolTip": "C:\\Users\\villc\\Desktop\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Models\\Cancha.cs",
+              "RelativeToolTip": "SistemaWeb\\Models\\Cancha.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:16:48.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\villc\\Desktop\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "SistemaWeb\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\villc\\Desktop\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Models\\Cliente.cs",
+              "RelativeToolTip": "SistemaWeb\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:16:11.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RolEnum.cs",
+              "DocumentMoniker": "C:\\Users\\villc\\Desktop\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Controllers\\RolEnum.cs",
+              "RelativeDocumentMoniker": "SistemaWeb\\Controllers\\RolEnum.cs",
+              "ToolTip": "C:\\Users\\villc\\Desktop\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Controllers\\RolEnum.cs",
+              "RelativeToolTip": "SistemaWeb\\Controllers\\RolEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:12:06.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\villc\\Desktop\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "SistemaWeb\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\villc\\Desktop\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Models\\Usuario.cs",
+              "RelativeToolTip": "SistemaWeb\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:11:41.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\villc\\Desktop\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SistemaWeb\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\villc\\Desktop\\SistemaWeb\\SistemaWeb\\SistemaWeb\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SistemaWeb\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:10:54.747Z",
+              "EditorCaption": ""
             }
           ]
         }
