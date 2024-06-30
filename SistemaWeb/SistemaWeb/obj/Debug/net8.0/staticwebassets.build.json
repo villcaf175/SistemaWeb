@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Gv75WGEnL+fKZXMCcXeEZVrTSI4XmiegDhQMR46jVvE=",
+  "Hash": "6Y16BaVIIVe+r2Ke8zSsRbtTEBmEFdsaKP86H98tp/Y=",
   "Source": "SistemaWeb",
   "BasePath": "_content/SistemaWeb",
   "Mode": "Default",
@@ -55,6 +55,25 @@
       "OriginalItemSpec": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SistemaWeb.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\wwwroot\\css\\img\\cancha wally.jpg",
+      "SourceId": "SistemaWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\wwwroot\\",
+      "BasePath": "_content/SistemaWeb",
+      "RelativePath": "css/img/cancha wally.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\img\\cancha wally.jpg"
+    },
+    {
       "Identity": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\wwwroot\\css\\site.css",
       "SourceId": "SistemaWeb",
       "SourceType": "Discovered",
@@ -72,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\wwwroot\\css\\style.css",
+      "SourceId": "SistemaWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\wwwroot\\",
+      "BasePath": "_content/SistemaWeb",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
       "Identity": "C:\\Users\\villc\\Desktop\\clonado\\SistemaWeb\\SistemaWeb\\SistemaWeb\\wwwroot\\favicon.ico",
